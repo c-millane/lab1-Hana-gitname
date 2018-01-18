@@ -10,3 +10,4 @@ tips to working with git and github
 > **Heike**
 
 ### I'd say I'm studying art sdo people would still talk to me, because Math was uncool at that point.
+## To much snow 
