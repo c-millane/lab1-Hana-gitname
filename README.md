@@ -4,7 +4,7 @@ tips to working with git and github
 > **Hana Lee**
 ### Statistics is ..
 ### Lifestyle in Ames / Working out / Studying
-### Nothing special
+### Nothing special, just tons of snow
 
 
 > **Heike**
